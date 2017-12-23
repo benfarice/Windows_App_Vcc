@@ -1,0 +1,148 @@
+S:\x\x\bin\Debug\x.exe.config
+S:\x\x\bin\Debug\x.exe
+S:\x\x\bin\Debug\x.pdb
+S:\x\x\bin\Debug\MetroFramework.dll
+S:\x\x\bin\Debug\MetroFramework.Fonts.dll
+S:\x\x\obj\Debug\x.csprojResolveAssemblyReference.cache
+S:\x\x\obj\Debug\x.Properties.Resources.resources
+S:\x\x\obj\Debug\x.csproj.GenerateResource.Cache
+S:\x\x\obj\Debug\x.csproj.CoreCompileInputs.cache
+S:\x\x\obj\Debug\x.exe
+S:\x\x\obj\Debug\x.pdb
+S:\x\x\obj\Debug\x.Form_Starting.resources
+S:\x\x\bin\Debug\Interop.AcroPDFLib.dll
+S:\x\x\bin\Debug\AxInterop.AcroPDFLib.dll
+S:\x\x\obj\Debug\Interop.AcroPDFLib.dll
+S:\x\x\obj\Debug\AxInterop.AcroPDFLib.dll
+S:\x\x\obj\Debug\x.csproj.ResolveComReference.cache
+S:\x\x\obj\Debug\x.Form_view_candidat_data.resources
+S:\x\x\obj\Debug\x.Form_add_candidat_diploma.resources
+S:\x\x\obj\Debug\x.Form_add_bac.resources
+S:\x\x\obj\Debug\x.Form_resultat_requet.resources
+S:\x\x\obj\Debug\x.Form_envoyerEmails.resources
+S:\x\x\obj\Debug\x.Form_add_niveau_bac.resources
+S:\x\x\obj\Debug\x.Form_add_experience.resources
+S:\x\x\obj\Debug\x.Form_add_phone.resources
+S:\x\x\obj\Debug\x.Form_add_atelier.resources
+S:\x\x\obj\Debug\x.Form_add_emploi_metier.resources
+S:\x\x\obj\Debug\x.Form_add_languages.resources
+C:\Users\youssef_imzou\Desktop\x\x\bin\Debug\x.exe.config
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.csproj.ResolveComReference.cache
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.exe
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.pdb
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.csprojResolveAssemblyReference.cache
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_Starting.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_add_atelier.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_add_bac.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_add_candidat_diploma.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_add_emploi_metier.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_add_experience.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_add_languages.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_add_niveau_bac.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_add_phone.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_envoyerEmails.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_resultat_requet.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_update_diploma.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_update_langues.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_update_son_metiers_visee.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_view_candidat_data.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Properties.Resources.resources
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.csproj.GenerateResource.Cache
+C:\Users\youssef_imzou\Desktop\x\x\bin\Debug\x.exe
+C:\Users\youssef_imzou\Desktop\x\x\bin\Debug\x.pdb
+C:\Users\youssef_imzou\Desktop\x\x\bin\Debug\MetroFramework.dll
+C:\Users\youssef_imzou\Desktop\x\x\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\youssef_imzou\Desktop\x\x\bin\Debug\mscorlib.dll
+C:\Users\youssef_imzou\Desktop\x\x\bin\Debug\fr\mscorlib.resources.dll
+C:\Users\youssef_imzou\Desktop\x\x\bin\Debug\normidna.nlp
+C:\Users\youssef_imzou\Desktop\x\x\bin\Debug\normnfc.nlp
+C:\Users\youssef_imzou\Desktop\x\x\bin\Debug\normnfd.nlp
+C:\Users\youssef_imzou\Desktop\x\x\bin\Debug\normnfkc.nlp
+C:\Users\youssef_imzou\Desktop\x\x\bin\Debug\normnfkd.nlp
+C:\Users\youssef_imzou\Desktop\x\x\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\youssef_imzou\Desktop\x\x\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\youssef_imzou\Desktop\x\x\obj\Debug\x.Form_add_sourcing.resources
+F:\cv theque moi\x\x\bin\Debug\x.exe.config
+F:\cv theque moi\x\x\obj\Debug\x.csproj.ResolveComReference.cache
+F:\cv theque moi\x\x\obj\Debug\x.exe
+F:\cv theque moi\x\x\obj\Debug\x.pdb
+F:\cv theque moi\x\x\obj\Debug\x.csprojResolveAssemblyReference.cache
+F:\cv theque moi\x\x\obj\Debug\x.Form_Starting.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_add_atelier.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_add_bac.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_add_candidat_diploma.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_add_emploi_metier.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_add_experience.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_add_languages.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_add_niveau_bac.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_add_phone.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_add_sourcing.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_envoyerEmails.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_resultat_requet.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_update_diploma.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_update_langues.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_update_son_metiers_visee.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_view_candidat_data.resources
+F:\cv theque moi\x\x\obj\Debug\x.Form_view_candidat_details.resources
+F:\cv theque moi\x\x\obj\Debug\x.Properties.Resources.resources
+F:\cv theque moi\x\x\obj\Debug\x.csproj.GenerateResource.Cache
+F:\cv theque moi\x\x\obj\Debug\Interop.AcroPDFLib.dll
+F:\cv theque moi\x\x\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\cv theque moi\x\x\bin\Debug\x.exe
+F:\cv theque moi\x\x\bin\Debug\x.pdb
+F:\cv theque moi\x\x\bin\Debug\MetroFramework.dll
+F:\cv theque moi\x\x\bin\Debug\MetroFramework.Fonts.dll
+F:\cv theque moi\x\x\bin\Debug\mscorlib.dll
+F:\cv theque moi\x\x\bin\Debug\fr\mscorlib.resources.dll
+F:\cv theque moi\x\x\bin\Debug\normidna.nlp
+F:\cv theque moi\x\x\bin\Debug\normnfc.nlp
+F:\cv theque moi\x\x\bin\Debug\normnfd.nlp
+F:\cv theque moi\x\x\bin\Debug\normnfkc.nlp
+F:\cv theque moi\x\x\bin\Debug\normnfkd.nlp
+F:\cv theque moi\x\x\bin\Debug\Interop.AcroPDFLib.dll
+F:\cv theque moi\x\x\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\cv theque moi\x\x\obj\Debug\Interop.InteropExtensionLib.dll
+F:\cv theque moi\x\x\obj\Debug\Interop.otkloadr.dll
+F:\projects & certifications\cv theque moi\x\x\bin\Debug\x.exe.config
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\Interop.AcroPDFLib.dll
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\Interop.InteropExtensionLib.dll
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\Interop.otkloadr.dll
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.csproj.ResolveComReference.cache
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.exe
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.pdb
+F:\projects & certifications\cv theque moi\x\x\bin\Debug\x.exe
+F:\projects & certifications\cv theque moi\x\x\bin\Debug\x.pdb
+F:\projects & certifications\cv theque moi\x\x\bin\Debug\MetroFramework.dll
+F:\projects & certifications\cv theque moi\x\x\bin\Debug\MetroFramework.Fonts.dll
+F:\projects & certifications\cv theque moi\x\x\bin\Debug\mscorlib.dll
+F:\projects & certifications\cv theque moi\x\x\bin\Debug\fr\mscorlib.resources.dll
+F:\projects & certifications\cv theque moi\x\x\bin\Debug\normidna.nlp
+F:\projects & certifications\cv theque moi\x\x\bin\Debug\normnfc.nlp
+F:\projects & certifications\cv theque moi\x\x\bin\Debug\normnfd.nlp
+F:\projects & certifications\cv theque moi\x\x\bin\Debug\normnfkc.nlp
+F:\projects & certifications\cv theque moi\x\x\bin\Debug\normnfkd.nlp
+F:\projects & certifications\cv theque moi\x\x\bin\Debug\Interop.AcroPDFLib.dll
+F:\projects & certifications\cv theque moi\x\x\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.csprojResolveAssemblyReference.cache
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_Starting.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_add_atelier.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_add_bac.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_add_candidat_diploma.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_add_emploi_metier.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_add_experience.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_add_languages.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_add_niveau_bac.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_add_phone.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_add_sourcing.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_envoyerEmails.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_resultat_requet.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_update_diploma.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_update_langues.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_update_son_metiers_visee.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_view_candidat_data.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Form_view_candidat_details.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.Properties.Resources.resources
+F:\projects & certifications\cv theque moi\x\x\obj\Debug\x.csproj.GenerateResource.Cache

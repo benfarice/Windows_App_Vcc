@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6E7AE9ED-83B2-43B6-9E7E-B2CD520B5ECC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>x</RootNamespace>
+    <AssemblyName>x</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class_ateliers.cs" />
+    <Compile Include="Class_bac.cs" />
+    <Compile Include="Class_Candidat.cs" />
+    <Compile Include="Class_Database_app.cs" />
+    <Compile Include="Class_diplome.cs" />
+    <Compile Include="Class_emploi_metier.cs" />
+    <Compile Include="Class_experience.cs" />
+    <Compile Include="Class_langage.cs" />
+    <Compile Include="Class_niveau_bac.cs" />
+    <Compile Include="Class_sourcing.cs" />
+    <Compile Include="Class_telephone.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_add_atelier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_add_atelier.Designer.cs">
+      <DependentUpon>Form_add_atelier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_add_bac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_add_bac.Designer.cs">
+      <DependentUpon>Form_add_bac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_add_candidat_diploma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_add_candidat_diploma.Designer.cs">
+      <DependentUpon>Form_add_candidat_diploma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_add_emploi_metier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_add_emploi_metier.Designer.cs">
+      <DependentUpon>Form_add_emploi_metier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_add_experience.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_add_experience.Designer.cs">
+      <DependentUpon>Form_add_experience.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_add_languages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_add_languages.Designer.cs">
+      <DependentUpon>Form_add_languages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_add_niveau_bac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_add_niveau_bac.Designer.cs">
+      <DependentUpon>Form_add_niveau_bac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_add_phone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_add_phone.Designer.cs">
+      <DependentUpon>Form_add_phone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_add_sourcing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_add_sourcing.Designer.cs">
+      <DependentUpon>Form_add_sourcing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_envoyerEmails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_envoyerEmails.Designer.cs">
+      <DependentUpon>Form_envoyerEmails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_resultat_requet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_resultat_requet.Designer.cs">
+      <DependentUpon>Form_resultat_requet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_update_diploma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_update_diploma.Designer.cs">
+      <DependentUpon>Form_update_diploma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_update_langues.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_update_langues.Designer.cs">
+      <DependentUpon>Form_update_langues.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_update_son_metiers_visee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_update_son_metiers_visee.Designer.cs">
+      <DependentUpon>Form_update_son_metiers_visee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_view_candidat_data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_view_candidat_data.Designer.cs">
+      <DependentUpon>Form_view_candidat_data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_view_candidat_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_view_candidat_details.Designer.cs">
+      <DependentUpon>Form_view_candidat_details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_add_atelier.resx">
+      <DependentUpon>Form_add_atelier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_add_bac.resx">
+      <DependentUpon>Form_add_bac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_add_candidat_diploma.resx">
+      <DependentUpon>Form_add_candidat_diploma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_add_emploi_metier.resx">
+      <DependentUpon>Form_add_emploi_metier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_add_experience.resx">
+      <DependentUpon>Form_add_experience.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_add_languages.resx">
+      <DependentUpon>Form_add_languages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_add_niveau_bac.resx">
+      <DependentUpon>Form_add_niveau_bac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_add_phone.resx">
+      <DependentUpon>Form_add_phone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_add_sourcing.resx">
+      <DependentUpon>Form_add_sourcing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_envoyerEmails.resx">
+      <DependentUpon>Form_envoyerEmails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_resultat_requet.resx">
+      <DependentUpon>Form_resultat_requet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_update_diploma.resx">
+      <DependentUpon>Form_update_diploma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_update_langues.resx">
+      <DependentUpon>Form_update_langues.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_update_son_metiers_visee.resx">
+      <DependentUpon>Form_update_son_metiers_visee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_view_candidat_data.resx">
+      <DependentUpon>Form_view_candidat_data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_view_candidat_details.resx">
+      <DependentUpon>Form_view_candidat_details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+    <None Include="Resources\delete1.jpg" />
+    <None Include="Resources\pencil.png" />
+    <None Include="Resources\diploma.png" />
+    <None Include="Resources\gps.png" />
+    <None Include="Resources\old-man.png" />
+    <None Include="Resources\female-and-male.png" />
+    <None Include="Resources\age.jpg" />
+    <None Include="Resources\ville.jpg" />
+    <None Include="Resources\worker.png" />
+    <None Include="Resources\x-button.png" />
+    <None Include="Resources\file.png" />
+    <None Include="Resources\add-user.png" />
+    <None Include="Resources\delete.jpg" />
+    <None Include="Resources\create_account.png" />
+    <None Include="Resources\setpassword.jpg" />
+    <None Include="Resources\pass0.png" />
+    <None Include="Resources\pass.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\Login_picture.png" />
+    <None Include="Resources\aaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="InteropExtensionLib">
+      <Guid>{C3D19104-7A67-4EB0-B459-D5B2E734D430}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Access.Dao">
+      <Guid>{4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}</Guid>
+      <VersionMajor>12</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="otkloadr">
+      <Guid>{C04E4E5E-89E6-43C0-92BD-D3F2C7FBA5C4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

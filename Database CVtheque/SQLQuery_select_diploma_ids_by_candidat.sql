@@ -1,0 +1,1 @@
+select ID_diplome from diplome where ID_candidat = 1 
